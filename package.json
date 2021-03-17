@@ -2,7 +2,7 @@
   "name": "monsters-rolodex2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Sandro-Col/monsters-rolodex2.git",
+  "homepage": "https://sandro-col.github.io/monsters-rolodex2/yarn",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
